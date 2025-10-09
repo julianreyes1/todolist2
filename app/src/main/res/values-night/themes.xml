@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Todolist2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <item name="colorPrimary">@color/color1</item>
+        <item name="colorPrimaryVariant">@color/color1</item>
+
+        <item name="colorSecondary">@color/color2</item>
+        <item name="colorSecondaryVariant">@color/color2</item>
+
+        <item name="android:statusBarColor">@color/color1</item>
+
+
+
+    </style>
+</resources>
